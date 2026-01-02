@@ -44,7 +44,8 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="section"><div class="h2">Summary</div><div class="text">Passionate data analyst skilled in Excel, Power BI, SQL, NoSQL, Python, and data visualization. Currently pursuing P.G. Diploma in Cyber & National Security while building advanced ML forecasting systems, web applications, and leading community initiatives.</div></div>', unsafe_allow_html=True)
+st.markdown('<div class="section"><div class="h2">Summary</div><div class="text">Data Analyst skilled in Excel, Power Query, Power BI, Python, SQL, and NoSQL, with strong experience in data cleaning, modelling, dashboard development, machine learning, data visualization, automation, and transforming raw data into actionable business insights.
+</div></div>', unsafe_allow_html=True)
 
 st.markdown("""
 <div class="section">
@@ -203,3 +204,4 @@ st.markdown("""
 
 # OPTION 1: MINIMAL & CLEAN
 st.markdown('<div style="text-align: center; padding: 30px; background: rgba(30,41,59,0.9); color: #94a3b8; font-size: 14px; margin-top: 40px;">© 2026 | Aniket V. Walunj | All rights reserved.</div>', unsafe_allow_html=True)
+
